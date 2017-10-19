@@ -1,7 +1,8 @@
 {
   "name": "html-string-query-selector",
   "version": "1.0.1",
-  "description": "A small script to get a specific HTML element from an HTML string.",
+  "description":
+    "A small script to get a specific HTML element from an HTML string.",
   "main": "src/index.js",
   "scripts": {
     "test": "jest --coverage",
@@ -24,7 +25,7 @@
   "homepage": "https://github.com/zchsh/get-html-element-from-string#readme",
   "devDependencies": {
     "jest": "^21.2.1"
-  },\
+  },
 
   "dependencies": {
     "jsdom": "^11.3.0"
