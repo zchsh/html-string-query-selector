@@ -1,0 +1,13 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+**/node_modules
+
+# jest coverage (not sure if this should be ignored?)
+coverage
+
+# jsdoc output (will use later when added)
+# /jsdoc
+
+# misc
+.DS_Store
