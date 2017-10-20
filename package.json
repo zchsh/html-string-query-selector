@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zchsh/get-html-element-from-string.git"
+    "url": "git+https://github.com/zchsh/html-string-query-selector.git"
   },
   "author": {
     "name": "Zach Shilton",
@@ -20,9 +20,9 @@
   "deprecated": false,
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zchsh/get-html-element-from-string/issues"
+    "url": "https://github.com/zchsh/html-string-query-selector/issues"
   },
-  "homepage": "https://github.com/zchsh/get-html-element-from-string#readme",
+  "homepage": "https://github.com/zchsh/html-string-query-selector#readme",
   "devDependencies": {
     "jest": "^21.2.1"
   },
