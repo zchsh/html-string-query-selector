@@ -1,6 +1,6 @@
 {
   "name": "html-string-query-selector",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A small script to get a specific HTML element from an HTML string.",
   "main": "src/index.js",
   "scripts": {
