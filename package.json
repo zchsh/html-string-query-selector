@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "jest --coverage",
-    "preversion": "npm test"
+    "preversion": "npm test",
+    "postversion": "git push"
   },
   "repository": {
     "type": "git",
